@@ -1,0 +1,20 @@
+import turtle
+turtle.pu()
+turtle.position()
+(0.00, 240.00)
+turtle.setx(-300)
+turtle.sety(-300)
+turtle.position()
+(10.00, 240.00)
+turtle.pd()
+turtle.forward(70)
+turtle.left(90)
+turtle.forward(70)
+turtle.left(90)
+turtle.forward(70)
+turtle.right(90)
+turtle.forward(70)
+turtle.right(90)
+turtle.forward(70)
+
+
